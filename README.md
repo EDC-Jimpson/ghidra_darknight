@@ -16,4 +16,4 @@ configure colors for everything :
 
 To install the theme, run the script :
 
-    ./set_colors.py ~/.ghidra/.ghidra-9.0/tools/_code_browser.tcd
+    ./set_colors.py ~/.ghidra/.ghidra_9.1-BETA_DEV/tools/_code_browser.tcd
